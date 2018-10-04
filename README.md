@@ -1,13 +1,15 @@
 # simpleLinkedList
 Simple C++ program implementing linkedlist and template, I wrote in my first semester.
 
-# SIMPLE C++ PROGRAM IPLIMENTING LINKLIST
+## SIMPLE C++ PROGRAM IPLIMENTING LINKLIST
 -this program is a simple program written in C++ for my first assingment from first year learning C++ programming in school.
 
 ## what it does 
 ```
 - this program store information from text file into a list.
-then will be manipulated again such that another information is going to be added to the list, information to be deleted from the list, and information to be search and display from the list.
+then will be manipulated again such that another information 
+is going to be added to the list, information to be deleted from the list, 
+and information to be search and display from the list.
 
 ```
 
